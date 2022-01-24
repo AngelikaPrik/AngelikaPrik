@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="https://t.me/AngelikaP" width="22px" src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png"/>[telegram]
+[<img align="left" alt="https://t.me/AngelikaP" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 
 ### Languages and Tools:
 
