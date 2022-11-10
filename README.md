@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Angelina
 
-## I'm a beginner FrontEnd Developer
+## I'm a FrontEnd Developer
 - 💻 I like to write code
 - 🌈 I'm interested in web design, ux/ui
 - 👀 I am constantly learning new things
