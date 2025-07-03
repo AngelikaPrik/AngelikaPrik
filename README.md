@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Angelina
 
 ## I'm a FrontEnd Developer
-- 💻 I like to write code
-- 🌈 I'm interested in web design, ux/ui
-- 👀 I am constantly learning new things
+- 💻 Crafting responsive, accessible, and joyful web interfaces
+- 🎨 Driven by design, guided by UX
+- 🔍 Curious mind. Constant learner
 
 ### Languages and Tools:
 
