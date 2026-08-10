@@ -10,7 +10,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
+<img align="left" alt="JavaScript" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png](https://banner2.cleanpng.com/20180629/sh/aaycbcgd1.webp)" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.changelog.com/uploads/icons/topics/YXL/icon_large.png?v=63682389432" />
 <img align="left" alt="Next.js" width="26px" src="https://logo.svgcdn.com/d/nextjs-original-8x.png" />
 <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/89914003/201101379-f3d0c183-4171-458c-92a2-2d503f35e3f9.png" />
